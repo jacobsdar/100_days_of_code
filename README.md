@@ -3,3 +3,5 @@
 
 This is a repository set up for journaling my completion of this course.
 
+## Day 1
+Printing, Commenting, Debugging, String Manipulation and Variables
